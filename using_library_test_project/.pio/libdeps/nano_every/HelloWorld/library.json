@@ -1,0 +1,7 @@
+{
+    "name": "HelloWorld",
+    "keywords": "test library, HelloWorld",
+    "description": "Hello World library to test how this all works.",
+    "frameworks": "*",
+    "platforms": "*"
+}
