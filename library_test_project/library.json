@@ -5,6 +5,6 @@
     "frameworks": "*",
     "platforms": "*",
     "build": {
-        "srcFilter": "src/main.*"
+        "srcFilter": "+<*> -<main.*>"
     }
 }
